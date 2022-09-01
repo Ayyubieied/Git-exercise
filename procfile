@@ -1,0 +1,1 @@
+web: gunicorn Wide.wsgi --log-file -
